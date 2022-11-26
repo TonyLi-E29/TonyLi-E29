@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyLi-E29
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python from course E29, Python for structural engineer
 - 💞️ I’m looking to collaborate on E29 course
 - 📫 How to reach me: email jianyuantonyli@yahoo.ca
 
